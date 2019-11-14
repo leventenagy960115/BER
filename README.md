@@ -1,2 +1,3 @@
 # BER
-Beágyazott Elektronikai Rendszerek Terv
+Beágyazott Elektronikai Rendszerek Terv Nagy Levente
+
