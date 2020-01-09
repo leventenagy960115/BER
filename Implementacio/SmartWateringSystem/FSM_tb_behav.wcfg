@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="FSM_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="FSM_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="450000000fs"></ZoomEndTime>
+      <Cursor1Time time="450000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="101"></NameColumnWidth>
+      <ValueColumnWidth column_width="87"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="9" />
+   <wvobject fp_name="/FSM_tb/src_CLK" type="logic">
+      <obj_property name="ElementShortName">src_CLK</obj_property>
+      <obj_property name="ObjectShortName">src_CLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/FSM_tb/RESET" type="logic">
+      <obj_property name="ElementShortName">RESET</obj_property>
+      <obj_property name="ObjectShortName">RESET</obj_property>
+   </wvobject>
+   <wvobject fp_name="/FSM_tb/T" type="logic">
+      <obj_property name="ElementShortName">T</obj_property>
+      <obj_property name="ObjectShortName">T</obj_property>
+   </wvobject>
+   <wvobject fp_name="/FSM_tb/L" type="logic">
+      <obj_property name="ElementShortName">L</obj_property>
+      <obj_property name="ObjectShortName">L</obj_property>
+   </wvobject>
+   <wvobject fp_name="/FSM_tb/M" type="array">
+      <obj_property name="ElementShortName">M[2:0]</obj_property>
+      <obj_property name="ObjectShortName">M[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/FSM_tb/Y" type="array">
+      <obj_property name="ElementShortName">Y[1:0]</obj_property>
+      <obj_property name="ObjectShortName">Y[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/FSM_tb/Z" type="logic">
+      <obj_property name="ElementShortName">Z</obj_property>
+      <obj_property name="ObjectShortName">Z</obj_property>
+   </wvobject>
+   <wvobject fp_name="/FSM_tb/uut/AS" type="other">
+      <obj_property name="ElementShortName">AS</obj_property>
+      <obj_property name="ObjectShortName">AS</obj_property>
+   </wvobject>
+   <wvobject fp_name="/FSM_tb/uut/NS" type="other">
+      <obj_property name="ElementShortName">NS</obj_property>
+      <obj_property name="ObjectShortName">NS</obj_property>
+   </wvobject>
+</wave_config>

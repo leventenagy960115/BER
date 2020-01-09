@@ -1,0 +1,18 @@
+#include "xparameters.h"
+#include "xil_io.h"
+#include "xbasic_types.h"
+
+int main(){
+
+	u32 system_out;
+
+	xil_printf("Start of Smart Watering System\n\n\r");
+
+	Xil_Out32(XPAR_WATERINGSYSTEM_IP_0_S00_AXI_BASEADDR, 0x00000001);
+
+
+
+
+	return 0;
+
+}

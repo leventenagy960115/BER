@@ -1,0 +1,13 @@
+#include "xparameters.h"
+#include "xil_io.h"
+#include "xbasic_types.h"
+
+int main(){
+
+	xil_printf("Start of Smart Watering System\n\n\r");
+
+
+
+	return 0;
+
+}
